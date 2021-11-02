@@ -11,7 +11,7 @@ That will start VSCode in your browser and allow you edit this readme.
 If you create a PR against this repo, I will edit the `main` branch to create a conflict that you must resolve.
 
 
-
+JC: Adding one new line.
 
 
 Additional information:
