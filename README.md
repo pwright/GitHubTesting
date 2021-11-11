@@ -9,6 +9,7 @@ That will start VSCode in your browser and allow you edit this readme.
 * The 'normal' GitHub flow is initiated in the browser, fork, create a branch, and create a PR.
 
 If you create a PR against this repo, I will edit the `main` branch to create a conflict that you must resolve.
+New line added by Breda 11-NOV-2021
 
 
 Additional information:
