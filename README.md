@@ -12,6 +12,8 @@ That will start VSCode in your browser and allow you edit this readme.
 If you create a PR against this repo, I will edit the `main` branch to create a conflict that prevents automatic merging.
 
 
+TBD: resolve conflicts
+
 Additional information:
 
 * [GitHub VSCode feature](https://visualstudiomagazine.com/articles/2021/08/31/github-vs-code.aspx)
